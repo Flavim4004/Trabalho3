@@ -1,0 +1,137 @@
+.img1{
+    height: 180px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.img2{
+    height: 180px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.txt1{
+    background-color: rgb(8, 0, 255);
+    color: rgb(255, 246, 75);
+    font-family: fantasy;
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 90px;
+    border-radius: 10px;
+}
+.txt2{
+    color:rgb(0, 0, 0);
+    font-family: fantasy;
+    font-size: 80px;
+    text-align: center;
+}
+.d5{
+    background-image: url(../imagen/star-wars-battlefront-pc-game-origin-cover.jpg);
+    background-size: cover;
+    height: 800px;
+}
+.txt3{
+    font-size: 30px;
+    margin-left: 30px;
+    color: white;
+    font-family: fantasy;
+}
+.a1{
+    font-size: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    
+}
+.s3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.txt4{
+    background-color: rgb(0, 30, 255);
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: yellow;
+    font-family: fantasy;
+}
+.d6{
+    background-color: rgb(184, 184, 184);
+    margin-left: 300px;
+    margin-top: 30px;
+    border-radius: 20px;
+
+}
+.img3{
+    width: 500px;
+    height: 500px;
+}
+.txt5{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.s4{
+    background-image: url(../imagen/background1.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.txt6{
+    color: white;
+    font-size: 30px;
+    margin-left: 145px;
+    font-family: fantasy;
+}
+.a2{
+    border-radius: 20px;
+    font-size: 30px;
+    margin-left: 145px;
+    margin-top: 10px;
+}
+.txt7{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-family: fantasy;
+    
+}
+.a3{
+    border-radius: 20px;
+    font-size: 30px;
+    width: 87%;
+    height: 300px;
+    margin-left: 145px;
+}
+.a4{
+    border-radius: 20px;
+    font-size: 30px;
+    width: 87%;
+    margin-left: 145px;
+    margin-top: 20px;
+}
+.s5{
+    background-image: url(../imagen/star-wars-backgrounds-2Door.jpeg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.txt9{
+    margin-left: 170px;
+    font-size: 30px;
+    color: white;
+    font-family: fantasy;
+}
+.s0{
+    background-color: black;
+}
+.d4{
+    background-color:yellow;
+}
+body{
+    background-color: black;
+}
+
