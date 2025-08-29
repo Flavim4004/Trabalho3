@@ -69,6 +69,7 @@
 .img3{
     width: 500px;
     height: 500px;
+    border-radius: 20px;
 }
 .txt5{
     text-align: center;
@@ -120,10 +121,12 @@
     background-size: 100% 100%;
 }
 .txt9{
-    margin-left: 170px;
+    margin-left: 5px;
     font-size: 30px;
     color: white;
     font-family: fantasy;
+    margin-top: 20px;
+    margin-bottom:40px;
 }
 .s0{
     background-color: black;
@@ -134,4 +137,36 @@
 body{
     background-color: black;
 }
+.txt10{
+    color: white;
+    font-size: 30px;
+    margin-left: 145px;
+    font-family: fantasy;
+}
+.a8{
+    border-radius: 20px;
+    font-size: 30px;
+    margin-left: 145px;
+    margin-top: 10px;
+    padding-left: 1065px;
+    padding-top: 90px;
+}
+.a9{
+    border-radius: 20px;
+    font-size: 30px;
+    width: 87%;
+    margin-left: 175px;
+    margin-top: 20px;
+}
+.img0{
+    width:40px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 14px;
+    
+}
+.dp10{
+    margin-left: 43px;
+}
+
 
